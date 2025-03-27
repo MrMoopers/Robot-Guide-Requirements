@@ -6,7 +6,7 @@
 
 **7.1 Study Location Details**
 
-![Study Location Details.](/Table/study_location_details.png)
+![Study Location Details.](/Tables/study_location_details.png)
 
 ###8. Images
 
