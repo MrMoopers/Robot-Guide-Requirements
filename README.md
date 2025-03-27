@@ -5,7 +5,7 @@
 ### 7. Tables
 
 **7.1 Study Location Details**
----
+
 
 **Table 4.** Study Location Details.
 ![Table 4. Study Location Details.](/Tables/study_location_details.png)
@@ -14,7 +14,7 @@
 ### 8. Images
 
 **8.1 Location Maps**
----
+
 
 
 ![Fig. 2. Nottingham Castle (Location A.1) Visit 1 Overview. The labels 1 to 12 show the photograph positions and directions from Figure 6.](/Figures/Annotated/annotated_map_2_A.png)
@@ -38,7 +38,7 @@
 
 
 **8.2 Location Photographs**
----
+
 
 ![Fig. 6. Photographs from the study at the Nottingham Castle (Location A.1) from the first visit. Part 1](/Figures/Photographs/nottingham_castle_1_A.png)
 ![Fig. 6. Photographs from the study at the Nottingham Castle (Location A.1) from the first visit. Part 2](/Figures/Photographs/nottingham_castle_1_B.png)
