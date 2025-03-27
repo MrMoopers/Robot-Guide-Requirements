@@ -2,7 +2,7 @@
 
 ## Appendix
 
-###7. Tables
+### 7. Tables
 
 **7.1 Study Location Details**
 
@@ -10,7 +10,7 @@
 **Table 4.** Study Location Details.
 
 
-###8. Images
+### 8. Images
 
 **8.1 Location Maps**
 
