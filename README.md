@@ -31,3 +31,20 @@
 
 
 **8.2 Location Photographs**
+
+![Fig. 6. Photographs from the study at the Nottingham Castle (Location A.1) from the first visit. Part 1](/Figures/Photographs/nottingham_castle_1_A.png)
+![Fig. 6. Photographs from the study at the Nottingham Castle (Location A.1) from the first visit. Part 2](/Figures/Photographs/nottingham_castle_1_B.png)
+**Fig. 6.** Photographs from the study at the Nottingham Castle (Location A.1) from the first visit.
+
+
+![Fig. 7. Photographs from the study at the Nottingham Castle (Location A.2) from the second visit.](/Figures/Photographs/nottingham_castle_2.png)
+**Fig. 7.** Photographs from the study at the Nottingham Castle (Location A.2) from the second visit.
+
+
+![Fig. 8. Photographs from the study on the Jubilee Campus (Location B). Part 1](/Figures/Photographs/University_of_nottingham_jubilee_1.png)
+![Fig. 8. Photographs from the study on the Jubilee Campus (Location B). Part 2](/Figures/Photographs/University_of_nottingham_jubilee_2.png)
+**Fig. 8.** Photographs from the study on the Jubilee Campus (Location B).
+
+
+![Fig. 9. Photographs from the study at the Peace & Happiness Park (Location C).](/Figures/Photographs/st_annes.png)
+**Fig. 9.** Photographs from the study at the Peace & Happiness Park (Location C).
