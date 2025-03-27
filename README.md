@@ -9,7 +9,7 @@
 
 **Table 4.** Study Location Details.
 ![Table 4. Study Location Details.](/Tables/study_location_details.png)
----
+
 
 ### 8. Images
 
